@@ -3,7 +3,7 @@ package documentacion;
 // TODO: Auto-generated Javadoc
 /**
  * Clase Documentacion.
- * @author: Jorge Freno
+ * @author Jorge Freno
  * @version 1.0
  * @since 20-02-2025
  */
